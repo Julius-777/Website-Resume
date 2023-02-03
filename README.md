@@ -1,4 +1,4 @@
 # Website Resume
 
-This project is built and setup to run on Replit using an environment setup to run Python Django. 
-The DNS of the replit website has been linked to a sub domain hosted on AWS Route 53. Original Replit can we found here [https://replit.com/@Julius777/Website-CV]
+This project is built with Python Django and is setup to run on Replit. Website can be accessed at [cv.juliusmiyumo.com](https://cv.juliusmiyumo.com/). Please give the website abit of time to load since the replit servers need to spin up an instance to host the web servers. 
+[See Original Replit(https://replit.com/@Julius777/Website-CV)
